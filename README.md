@@ -2,7 +2,9 @@
 
 > Made with create-react-library
 
-[![NPM](https://img.shields.io/npm/v/@webhipster-tech/react-image.svg)](https://www.npmjs.com/package/@webhipster-tech/react-image) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Build Status](https://travis-ci.com/webhipster-tech/react-image.svg?branch=master)](https://travis-ci.com/webhipster-tech/react-image)
+[![NPM](https://img.shields.io/npm/v/@webhipster-tech/react-image.svg)](https://www.npmjs.com/package/@webhipster-tech/react-image)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
